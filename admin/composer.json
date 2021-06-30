@@ -1,0 +1,6 @@
+{
+    "name": "demo/locabox",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}

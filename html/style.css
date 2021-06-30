@@ -1,0 +1,109 @@
+.rasa{
+    font-family:'Rasa' ! important;
+}
+
+.bg-nav{
+background-color:#9A2222;
+}
+
+.police{
+    font-family:'Rasa' ! important;
+    color: white;
+    
+}
+.police:hover{
+    color: black;
+}
+.bg-loca{
+    background-image: url('../photo_figma/image.jpg');
+    background-size: 100%;
+}
+
+.carte1{
+    border: 0;
+    width: 50%;
+    border-radius: 2.5%;
+    background-color: #F1DBDB;
+}
+.card-img-top{
+    border-radius: 2.5%;
+}
+.frame{
+    border-radius: 2.5%;
+}
+.boutonm{
+    font-family:'Rasa' ! important;
+    color: black;
+    background-color: #D22828;
+    width: 100%;
+}
+.boutonm:hover{
+    color: white;
+    background-color: #343C48;
+}
+.bg_presentation{
+    background-color: #343C48;
+}
+.largeur_carte{
+    width: 375px ! important;
+    border: 0;
+    border-radius: 2.5%;
+    
+}
+.hauteurcarte{
+    height: 300px;  
+    border-radius: 2.5%;
+   
+}
+.bg_cartep{
+    background-color: #D22828 ! important;
+}
+.bg-relation{
+    background-image: url('../photo_figma/relation-client-conseils.jpg');
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img1{
+    width: 100%;
+    height: 750px;
+}
+.bg-actues{
+    background-color: #9A2222;
+}
+
+.photo-car{
+    height: 450px;
+    margin: auto;
+    
+}
+.bg-promo{
+    background-image: url('../photo_figma/Brown-color-wood-board-background_1920x1080.jpg');
+}
+.img-promo{
+    width: 450px;
+    height: 350px;
+}
+.bg-footer{
+    background-color: #9A2222;
+}
+.img-footer{
+    height: 195px;
+}
+.logo-footer{
+    margin-top: 38%;
+}
+.form-control{
+    width: 250px;
+    background-color: #F1DBDB;
+}
+.centre{
+    margin: auto;
+}
+#message{
+    width: 750px;
+    height: 350px;
+}
+.bg-form{
+    background-image: url('../photo_figma/Red-Wallpapers-40-2880x1620.jpg');
+}
